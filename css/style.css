@@ -17,13 +17,21 @@ footer{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15px;
 }
+.seznam{
+    display: flex;
+    column-gap: 20xp;
+}
 ul{
     list-style-type: circle;
     width: 50%;
-    float: left;
 }
 ol{
     list-style: circle;
     width: 50%;
-    float: right
+}
+h1{
+    padding: 20px 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-size-adjust: 40px;
+    color: darkslateblue;
 }
