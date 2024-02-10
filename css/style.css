@@ -37,16 +37,17 @@ footer{
     display: flex;
     text-align: center;
     flex-wrap: wrap;
-    gap: 2em;
+    gap: 3em;
     margin: 4em;
-    padding: 3em;
+    padding: 3.5em;
     list-style-type: none;
     border-style: double;
 }
 
 .seznam a {
     text-decoration: none;
-    padding: 3px;
+    padding: 8px;
+    border: 1px solid darkslateblue
 }
 
 h1{
