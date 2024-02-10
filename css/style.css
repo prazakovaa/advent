@@ -1,6 +1,6 @@
 
 body{
-    background-color:lavender;
+    background-color:rgb(226, 212, 246);
 }
 #nazev{
     text-align: center;
@@ -20,14 +20,14 @@ menu{
 menu a {
     margin: 1em;
     border: solid 1px darkslateblue;
-    padding: 7px;
+    padding: 8px;
     text-decoration: none;
 }
 
 footer{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15px;
-    color:indigo;
+    color:darkslateblue;
     text-align: center;
     padding-right: 2em;
 }
@@ -47,7 +47,7 @@ footer{
 .seznam a {
     text-decoration: none;
     padding: 8px;
-    border: 1px solid darkslateblue
+    border: 1px solid darkslateblue;
 }
 
 h1{
